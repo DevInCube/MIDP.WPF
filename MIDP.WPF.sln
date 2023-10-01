@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MIDP", "MIDPShell\MIDP.csproj", "{4EE4BA43-AB05-4397-B247-E8EBBF8F36BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Java.Core", "Java.Core\Java.Core.csproj", "{A9FA24A2-0DC8-4E25-8D1D-B6F0CCD52486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EE4BA43-AB05-4397-B247-E8EBBF8F36BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE4BA43-AB05-4397-B247-E8EBBF8F36BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE4BA43-AB05-4397-B247-E8EBBF8F36BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE4BA43-AB05-4397-B247-E8EBBF8F36BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9FA24A2-0DC8-4E25-8D1D-B6F0CCD52486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9FA24A2-0DC8-4E25-8D1D-B6F0CCD52486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9FA24A2-0DC8-4E25-8D1D-B6F0CCD52486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9FA24A2-0DC8-4E25-8D1D-B6F0CCD52486}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
